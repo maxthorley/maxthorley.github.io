@@ -113,7 +113,7 @@ var impact = ["now they can’t afford to eat smashed avocado on toast for 789,3
             "they're getting the NBN in 47 years",
             "their builder friends are blocking their phone numbers",
             "good for them",
-            "if they get a dodgy tradie, they'll have Grimshaw on the phone ASAP",
+            "if they get stuck with a dodgy tradie, they'll have Grimshaw on the phone ASAP",
             ]
 
 var randomSubject = Math.floor(Math.random()*subject.length);
