@@ -111,7 +111,7 @@ var impact = ["now they can’t afford to eat smashed avocado on toast for 789,3
             "maybe I'm wrong and this is completely normal",
             "now their real estate agent can afford another huge billboard with his head on it",
             "they're getting the NBN in 47 years",
-            "their builder friends are blocking their phone numbers",
+            "their builder friends have already blocked their phone numbers",
             "good for them",
             "if they get stuck with a dodgy tradie, they'll have Grimshaw on the phone ASAP",
             ]
