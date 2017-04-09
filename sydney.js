@@ -1,5 +1,4 @@
-var subject = ["some idiot",
-            "a person who probably owns 10+ properties",
+var subject = ["a person who probably owns 10+ properties",
             "someone",
             "someone who MUST have been joking when they bid at the auction",
             "an individual who would be terrible at Deal or no Deal",
