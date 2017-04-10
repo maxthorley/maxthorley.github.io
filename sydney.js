@@ -27,7 +27,7 @@ var subject = ["a person who probably owns 10+ properties",
           ]
 
 var property =[
-"6 bedroom house in Turramurra for $4,850,000",,
+"6 bedroom house in Turramurra for $4,850,000",
 "5 bedroom house in St Ives for $2,672,000",
 "5 bedroom house in Strathfield for $2,906,000",
 "5 bedroom house in Croydon for $3,050,000",
