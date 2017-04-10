@@ -75,6 +75,7 @@ a:hover {
 .container {
   display: table;
   width: 1000px;
+  background-color: #2358a8;
   height: 100vh;
   text-align: center;
   margin: 0 auto;
